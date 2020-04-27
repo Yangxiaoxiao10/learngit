@@ -2,6 +2,5 @@ Git is a version control system.
 Git is free software.
 Git has a mutable index called stage 123.
 12345
-67890
+你好啊
 
-enwenfi
